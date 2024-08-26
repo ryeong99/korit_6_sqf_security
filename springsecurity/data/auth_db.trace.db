@@ -1,0 +1,6 @@
+2024-08-22 15:25:13 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM USER_ROLES USER ROLE[*]"; SQL statement:
+SELECT * FROM USER_ROLES USER ROLE [42000-200]
+2024-08-22 15:25:27 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "UER_ROLES" not found; SQL statement:
+DROP TABLE UER_ROLES [42102-200]
